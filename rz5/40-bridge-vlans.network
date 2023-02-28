@@ -1,0 +1,24 @@
+[Match]
+Name=bridge0
+Type=bridge
+
+[Network]
+VLAN=vlan7
+VLAN=vlan17
+VLAN=vlan25
+#BindCarrier=bond0 enp14s0 enp16s0 enp17s0
+
+LinkLocalAddressing=no
+LLDP=no
+EmitLLDP=no
+IPv6AcceptRA=no
+IPv6SendRA=no
+
+[BridgeVLAN]
+VLAN=7
+
+[BridgeVLAN]
+VLAN=17
+
+[BridgeVLAN]
+VLAN=25

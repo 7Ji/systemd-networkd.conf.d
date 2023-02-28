@@ -1,0 +1,12 @@
+[Match]
+Path=platform-xhci-hcd.6.auto-usb-0:1:1.0
+
+[Network]
+VLAN=vlan7
+VLAN=vlan25
+
+LinkLocalAddressing=no
+LLDP=no
+EmitLLDP=no
+IPv6AcceptRA=no
+IPv6SendRA=no

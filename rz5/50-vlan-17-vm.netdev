@@ -1,0 +1,6 @@
+[NetDev]
+Name=vlan17
+Kind=vlan
+
+[VLAN]
+Id=17

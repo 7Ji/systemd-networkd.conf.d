@@ -1,0 +1,6 @@
+[Match]
+Name=enp9s0 enp13s0
+Type=ether
+
+[Network]
+Bond=bond0

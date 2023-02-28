@@ -1,0 +1,13 @@
+[Match]
+Name=enp3s0
+
+[Network]
+DNS=192.168.7.1
+
+[Route]
+Gateway=192.168.7.1
+Metric=10
+
+[Address]
+Address=192.168.7.12/24
+RouteMetric=30

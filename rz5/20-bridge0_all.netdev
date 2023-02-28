@@ -1,0 +1,10 @@
+[NetDev]
+Description=Bridge for all ports
+Name=bridge0
+Kind=bridge
+MACAddress=6e:92:da:5e:97:4a
+
+[Bridge]
+DefaultPVID=17
+VLANFiltering=yes
+VLANProtocol=802.1q

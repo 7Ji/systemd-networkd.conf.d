@@ -1,0 +1,13 @@
+[Match]
+Name=vlan17
+Type=vlan
+
+[Network]
+Address=192.168.17.2/24
+#BindCarrier=bridge0
+
+LinkLocalAddressing=no
+LLDP=no
+EmitLLDP=no
+IPv6AcceptRA=no
+IPv6SendRA=no

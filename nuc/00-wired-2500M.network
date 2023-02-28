@@ -1,0 +1,12 @@
+[Match]
+Name=enp2s0
+
+[Network]
+VLAN=vlan7
+VLAN=vlan25
+
+LinkLocalAddressing=no
+LLDP=no
+EmitLLDP=no
+IPv6AcceptRA=no
+IPv6SendRA=no

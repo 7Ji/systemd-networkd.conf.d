@@ -1,0 +1,15 @@
+[Match]
+Name=vlan7
+Type=vlan
+
+[Network]
+DNS=192.168.7.1
+#BindCarrier=bridge0
+
+[Route]
+Gateway=192.168.7.1
+Metric=20
+
+[Address]
+Address=192.168.7.251/24
+RouteMetric=40

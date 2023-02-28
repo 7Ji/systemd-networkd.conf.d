@@ -1,0 +1,13 @@
+[Match]
+Name=vlan25
+Type=vlan
+
+[Network]
+Address=192.168.25.12/24
+#BindCarrier=bridge0
+
+LinkLocalAddressing=no
+LLDP=no
+EmitLLDP=no
+IPv6AcceptRA=no
+IPv6SendRA=no
