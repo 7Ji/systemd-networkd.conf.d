@@ -2,6 +2,9 @@
 Name=bridge0
 Type=bridge
 
+[Link]
+RequiredForOnline=no
+
 [Network]
 VLAN=vlan7
 VLAN=vlan17

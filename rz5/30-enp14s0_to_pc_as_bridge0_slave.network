@@ -2,6 +2,9 @@
 Name=enp14s0
 Type=ether
 
+[Link]
+RequiredForOnline=no
+
 [Network]
 Bridge=bridge0
 
