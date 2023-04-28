@@ -9,7 +9,6 @@ RequiredForOnline=no
 VLAN=vlan7
 VLAN=vlan17
 VLAN=vlan25
-#BindCarrier=bond0 enp14s0 enp16s0 enp17s0
 
 LinkLocalAddressing=no
 LLDP=no

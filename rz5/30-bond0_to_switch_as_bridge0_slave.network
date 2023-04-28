@@ -3,7 +3,6 @@ Name=bond0
 
 [Network]
 Bridge=bridge0
-#BindCarrier=enp9s0 enp13s0
 
 [BridgeVLAN]
 VLAN=7

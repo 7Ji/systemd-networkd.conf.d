@@ -1,5 +1,5 @@
 [Match]
-Name=enp9s0 enp13s0
+Name=enp9s0
 Type=ether
 
 [Network]

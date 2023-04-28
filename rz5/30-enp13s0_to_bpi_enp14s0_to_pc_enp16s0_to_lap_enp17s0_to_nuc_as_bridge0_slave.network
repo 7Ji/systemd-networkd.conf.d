@@ -1,5 +1,5 @@
 [Match]
-Name=enp16s0
+Name=enp13s0 enp14s0 enp16s0 enp17s0
 Type=ether
 
 [Link]
