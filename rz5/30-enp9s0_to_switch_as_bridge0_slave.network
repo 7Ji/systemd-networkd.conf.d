@@ -1,5 +1,5 @@
 [Match]
-Name=bond0
+Name=enp9s0
 
 [Network]
 Bridge=bridge0

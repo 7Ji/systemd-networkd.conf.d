@@ -1,9 +1,0 @@
-[Match]
-Name=enp8s0f*
-Type=ether
-
-[Link]
-RequiredForOnline=no
-
-[Network]
-Bond=bond0
